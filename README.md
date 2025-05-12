@@ -1,0 +1,2 @@
+# -HomeAssistant
+在云服务器上通过docker安装HomeAssistant，实现通过外网管理米家设备，并且可以接入其他品牌设备
